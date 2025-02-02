@@ -18,3 +18,7 @@ If you have any roms with other revisions, etc - change the file name to match e
 Now open up RetroArch with xmb as your menu theme and navigate to Settings > Appearance > Playlist Icons and select "Content Logo"
 
 Restart RetroArch and your games will now show each unique cart/disc image instead of a generic icon
+
+## How To Use
+
+*(coming soon)*
