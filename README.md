@@ -19,6 +19,6 @@ Now open up RetroArch with xmb as your menu theme and navigate to Settings > App
 
 Restart RetroArch and your games will now show each unique cart/disc image instead of a generic icon
 
-## How To Use
+## How To Contribute
 
 *(coming soon)*
